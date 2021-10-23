@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @deasy25
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning STT Terpadu Nurul Fikri
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig : @elndadeasy
 
 <!---
